@@ -4,7 +4,7 @@
 </head>
 <body>
 
-<h1>Johanna S-Emilien 🇵🇷 </h1>
+<h1>Johanna S-Emilien 💃 </h1>
 <strong><code>Bachelor of Applied Sciences in Computer Technology & Software Development Student</code><strong/>
 <p></p>
   <p>I am a Valencia College student, a healthcare professional and an avid learner. As an all-around learner, I have taken courses on several programming languages to make my transition into programming much easier. I know I should have "stock" to one language, but I am still searching for the 'it' language. </p>
