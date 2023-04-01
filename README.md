@@ -7,7 +7,7 @@
 <h1>Johanna S-Emilien 💃 </h1>
 <strong><code>Bachelor of Applied Sciences in Computer Technology & Software Development Student</code><strong/>
 <p></p>
-  <p>I am a Valencia College student, a healthcare professional and an avid learner. As an all-around learner, I have taken courses on several programming languages to make my transition into programming much easier. I know I should have "stock" to one language, but I am still searching for the 'it' language. </p>
+  <p>I am a Valencia College student, a healthcare professional and an avid learner. As an all-around learner, I have taken courses on several programming languages to make my transition into programming much easier. I know I should have "stuck" to one language, but I am still searching for the 'it' language. </p>
 <p>I am here because I am seeking to learn much more and because this is the best place to keep my work while I am in school. You can find more about me at my LinkedIn page: <a href="https://www.linkedin.com/in/johanna-scharbaai-emilien-252366136/">Jojo</a></p> 
   
   <h3>Languages, Tools & Operating Systems used During my Program</h3>
